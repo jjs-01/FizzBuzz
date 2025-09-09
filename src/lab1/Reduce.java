@@ -6,7 +6,7 @@ public class Reduce {
         System.out.println(steps);
     }
 
-    static int reduce(int n) {
+    public static int reduce(int n) {
         int i = n;
         int stepsToZero = 0;
 
